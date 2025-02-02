@@ -1,16 +1,35 @@
-# hng_0
+[stage-0-mobile](https://github.com/Ayo-Oni-515/stage-0-mobile)
+--
+*HNG 12 Internship mobile track stage-0*
 
-A new Flutter project.
+## hng_0
 
-## Getting Started
+A simple flutter application comprising two backlinks.
 
-This project is a starting point for a Flutter application.
+## Local Setup
+Take these steps after installing flutter, dart sdk and android studio on your local machine: 
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+        git clone https://github.com/Ayo-Oni-515/stage-0-mobile.git
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2. Navigate to hng_0 directory
+
+        cd hng_0/
+
+3. Run this command to install dependencies available in the pubspec.yaml file.
+
+        flutter pub get
+
+4. Select a device for simulation.
+    
+        Example: Google Pixel 8
+
+5. Run the code without debugging.
+
+## Build apk
+To build the apk file use
+
+    flutter build apk
+
+To hire flutter developers, visit: http://hng.tech/hire/flutter-developers
